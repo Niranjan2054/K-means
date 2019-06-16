@@ -7,4 +7,5 @@ This is for the Study of K Means Clustureing
 <a href="http://rosalind.info/glossary/euclidean-distance/">Euclidean distance</a><br>
 <a href="https://www.researchgate.net/publication/271616608_A_Clustering_Method_Based_on_K-Means_Algorithm">A Clustering Method Based on K-Means Algorithm  -- Research Paper</a> <a href="https://github.com/Niranjan2054/K-means/blob/master/A_Clustering_Method_Based_on_K-Means_Algorithm.pdf">Download</a><br>
 <a href="https://ml-cheatsheet.readthedocs.io/en/latest/gradient_descent.html">Gradient Descent</a><br>
-
+<h5>cluster criterion funciton</h5>
+<h5>Largest Minimum Distance Algorithm</h5>
